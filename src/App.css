@@ -1,0 +1,30 @@
+
+
+.App{
+  text-align: center;
+  background-image: url("https://www.flashscore.com/res/_fs/image/og/flashscore.png");
+  background-size: 100%;
+color: #FF0046;
+}
+
+h1{
+  margin-bottom: 230px;
+}
+
+#card{
+  display: grid;
+grid-template-columns: repeat(3, 1fr);
+justify-items: center;
+
+text-align: center;
+opacity: 0.8;
+margin-top: 100px;
+
+}
+
+img {
+  width: 250px;
+  height: 250px;
+
+  
+}
